@@ -1,7 +1,6 @@
 # app.py — Sasta Rapido: Delivery Cost Estimator (Single File)
 import streamlit as st
 import pandas as pd
-import plotly.graph_objects as go
 import math
 import time
 
